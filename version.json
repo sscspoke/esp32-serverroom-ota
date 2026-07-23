@@ -1,9 +1,9 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "firmware": "https://raw.githubusercontent.com/sscspoke/esp32-serverroom-ota/main/firmware.bin",
-  "release_date": "2026-07-22",
+  "release_date": "2026-07-23",
   "mandatory": false,
   "notes": "OTA Engine Added",
   "size": 1206672,
-  "md5": "3244a55edd590ad5ebb371822f728301"
+  "md5": "ae28351bf96cfefa2772f13a128484b0"
 }
