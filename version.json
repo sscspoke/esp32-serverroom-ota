@@ -1,5 +1,5 @@
 {
-  "version": "2.1.3",
+  "version": "2.1.4",
   "firmware": "https://raw.githubusercontent.com/sscspoke/esp32-serverroom-ota/main/firmware.bin",
   "release_date": "2026-07-23",
   "mandatory": false,
